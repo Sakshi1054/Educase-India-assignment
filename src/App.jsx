@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home";
 import Signup from "./Pages/Signup";
 import Signin from "./Pages/Signin";
-import UserProfile from "./Pages/userProfile";
+import UserProfile from "./Pages/UserProfile";
 import { UserProvider } from "./context/userContext";
 
 function App() {
